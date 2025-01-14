@@ -1,8 +1,6 @@
 ![AR-CASCA](https://user-images.githubusercontent.com/57852378/129159832-fa6eb6f1-cedc-4d53-beb7-74a240065577.png)
 
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
+
 
 ## Problem statement  :disappointed:
 The businesses began closing their physical locations last year due to the COVID-19 pandemic, it affects alot of industry, absent of face-to-face interactions with customers. 
